@@ -23,6 +23,5 @@ Special numbers are numbers that are both:
 - You are encouraged to use Python's **built-in libraries**.
 - The solution should be concise, **not exceeding 100 lines** of code.
 
-Each solution should be your own work.
 
 
